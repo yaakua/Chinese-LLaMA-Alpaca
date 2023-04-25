@@ -9,7 +9,7 @@ flagged
 #scheduler.pt
 #trainer_state.json
 #training_args.bin
-#pytorch_model.bin
+#adapter_model.bin
 # cpp out files
 chat
 quantize
